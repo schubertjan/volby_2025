@@ -1,1 +1,1 @@
-mae_threshold = 1.5
+mae_threshold = 1.0

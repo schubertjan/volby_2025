@@ -4,6 +4,7 @@ from pathlib import Path
 import json
 from settings import mae_threshold
 
+
 def PROP_MAE(y, pred, count):
     return np.round(np.average(np.abs(y - pred), weights=count), 2)
 
@@ -62,10 +63,10 @@ results = results.loc[results["PROP_MAE"] < mae_threshold, :]
 # based on overall % of okrsek
 
 results["url_ps2021"] = results.apply(
-    lambda x: create_url("ps2021",x["OKRES"], x["OBEC"], x["OKRSEK"]), axis=1
+    lambda x: create_url("ps2021", x["OKRES"], x["OBEC"], x["OKRSEK"]), axis=1
 )
 results["url_ps2025"] = results.apply(
-    lambda x: create_url("ps2025",x["OKRES"], x["OBEC"], x["OKRSEK"]), axis=1
+    lambda x: create_url("ps2025", x["OKRES"], x["OBEC"], x["OKRSEK"]), axis=1
 )
 
 with open(project_dir / "results_2021.json", "w") as f:
