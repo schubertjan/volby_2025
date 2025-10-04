@@ -6,6 +6,7 @@ from pathlib import Path
 import json
 from datetime import datetime
 import git
+import logging
 
 project_dir = Path(__file__).parent
 
@@ -36,13 +37,12 @@ def git_push_results():
         print(f"Error: {e}")
 
 mae_threshold = 2
-print(load_okrsek_results("https://www.volby.cz/appdata/ps2021/vysled/okrsek/8104/599191_4.json"))
 results_2021 = pd.read_csv(project_dir / "results_2021.csv")
 
 while True:
     intermediate_results = []
     for index, row in results_2021.iterrows():
-        okrsek_result = load_okrsek_results(row["url_ps2021"])
+        okrsek_result = load_okrsek_results(row["url_ps2025"])
         okrsek_result["PROP_MAE"] = row["PROP_MAE"]
         okrsek_result["WEIGHT"] = mae_threshold - okrsek_result["PROP_MAE"]
         intermediate_results.append(okrsek_result)
@@ -63,3 +63,5 @@ while True:
 
     git_push_results()
     time.sleep(30)
+
+# visible at https://schubertjan.github.io/volby_2025/prubezne_vysledky
