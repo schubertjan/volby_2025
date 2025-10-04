@@ -1,14 +1,13 @@
-# 🗳️ Volební výsledky podle strany:
+# 🗳️ Predikce volebních výsledků:
 
-Čas predikce: 2025-10-04_16:51:59
+Čas predikce: 2025-10-04_16:56:06
 
-| NAZ_STRANA                     |   Procent hlasů (strany s více než 1.0%) |
+| Názek strany                   |   Procent hlasů (strany s více než 1.0%) |
 |:-------------------------------|-----------------------------------------:|
-| ANO 2011                       |                                    33.71 |
-| SPOLU (ODS, KDU-ČSL, TOP 09)   |                                    23.7  |
-| STAROSTOVÉ A NEZÁVISLÍ         |                                    11.1  |
-| Česká pirátská strana          |                                     8.53 |
-| Svoboda a př. demokracie (SPD) |                                     8.07 |
-| Motoristé sobě                 |                                     7.08 |
-| Stačilo!                       |                                     4.6  |
-| PŘÍSAHA občanské hnutí         |                                     1.03 |
+| ANO 2011                       |                                    32.65 |
+| SPOLU (ODS, KDU-ČSL, TOP 09)   |                                    24.85 |
+| STAROSTOVÉ A NEZÁVISLÍ         |                                    11.17 |
+| Česká pirátská strana          |                                    10.27 |
+| Svoboda a př. demokracie (SPD) |                                     7.22 |
+| Motoristé sobě                 |                                     6.2  |
+| Stačilo!                       |                                     4.5  |
