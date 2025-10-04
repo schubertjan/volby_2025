@@ -4,11 +4,11 @@
 
 | Názek strany                   |   Procent hlasů (strany s více než 1.0%) |
 |:-------------------------------|-----------------------------------------:|
-| ANO 2011                       |                                    33.94 |
-| SPOLU (ODS, KDU-ČSL, TOP 09)   |                                    24.06 |
-| STAROSTOVÉ A NEZÁVISLÍ         |                                    10.65 |
-| Česká pirátská strana          |                                     8.89 |
-| Svoboda a př. demokracie (SPD) |                                     7.84 |
-| Motoristé sobě                 |                                     6.85 |
-| Stačilo!                       |                                     4.33 |
-| PŘÍSAHA občanské hnutí         |                                     1.16 |
+| ANO 2011                       |                                    33.92 |
+| SPOLU (ODS, KDU-ČSL, TOP 09)   |                                    24.07 |
+| STAROSTOVÉ A NEZÁVISLÍ         |                                    10.7  |
+| Česká pirátská strana          |                                     8.84 |
+| Svoboda a př. demokracie (SPD) |                                     7.79 |
+| Motoristé sobě                 |                                     6.92 |
+| Stačilo!                       |                                     4.34 |
+| PŘÍSAHA občanské hnutí         |                                     1.15 |
