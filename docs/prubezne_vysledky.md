@@ -1,32 +1,13 @@
 # 🗳️ Volební výsledky podle strany:
 
-Čas predikce: 2025-10-04_15:56:25
+Čas predikce: 2025-10-04_16:04:19
 
-| NAZ_STRANA                     |   Procent hlasů |
-|:-------------------------------|----------------:|
-| "Rebelové web: re3elove.cz"    |            0.08 |
-| ANO 2011                       |           33.27 |
-| Balbínova poetická strana      |            0    |
-| Hnutí Generace                 |            0.45 |
-| Hnutí Kruh                     |            0.05 |
-| Hnutí občanů a podnikatelů     |            0.07 |
-| Jasný Signál Nezávislých       |            0.1  |
-| Koruna Česká (monarch.strana)  |            0.2  |
-| Levice                         |            0.1  |
-| Moravské zemské hnutí          |            0.1  |
-| Motoristé sobě                 |            6.93 |
-| PŘÍSAHA občanské hnutí         |            0.94 |
-| SMS – Stát Má Sloužit          |            0.12 |
-| SPOLU (ODS, KDU-ČSL, TOP 09)   |           23.61 |
-| STAROSTOVÉ A NEZÁVISLÍ         |           11.06 |
-| Stačilo!                       |            4.94 |
-| Svoboda a př. demokracie (SPD) |            8.42 |
-| Urza.cz: Nechceme vaše hlasy   |            0    |
-| Volt Česko                     |            0.1  |
-| Volte Pr.Blok www.cibulka.net  |            0    |
-| Voluntia                       |            0.18 |
-| VÝZVA 2025                     |            0.08 |
-| Česká pirátská strana          |            8.7  |
-| Česká republika na 1. místě!   |            0.21 |
-| Česká suverenita soc. dem.     |            0.16 |
-| ŠVÝCARSKÁ DEMOKRACIE           |            0.36 |
+| NAZ_STRANA                     |   Procent hlasů (strany s více než 1.0%) |
+|:-------------------------------|-----------------------------------------:|
+| ANO 2011                       |                                    33.6  |
+| Motoristé sobě                 |                                     6.78 |
+| SPOLU (ODS, KDU-ČSL, TOP 09)   |                                    23.43 |
+| STAROSTOVÉ A NEZÁVISLÍ         |                                    11.43 |
+| Stačilo!                       |                                     4.76 |
+| Svoboda a př. demokracie (SPD) |                                     8.27 |
+| Česká pirátská strana          |                                     8.76 |
