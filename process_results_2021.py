@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 import json
-
+from settings import mae_threshold
 
 def PROP_MAE(y, pred, count):
     return np.round(np.average(np.abs(y - pred), weights=count), 2)
@@ -58,7 +58,6 @@ results = okrsky_2021.sort_values(by=["PROP_MAE", "OKRSEK_POC_HLASU"], ascending
 
 
 # based on threshold
-mae_threshold = 2.0
 results = results.loc[results["PROP_MAE"] < mae_threshold, :]
 # based on overall % of okrsek
 
