@@ -1,0 +1,1271 @@
+[
+    {
+        "OKRES": 8106,
+        "OBEC": 554561,
+        "OKRSEK": 3001,
+        "PROP_MAE": 0.37,
+        "OKRSEK_POC_HLASU": 826,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/8106/554561_3001.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/8106/554561_3001.json"
+    },
+    {
+        "OKRES": 5205,
+        "OBEC": 579025,
+        "OKRSEK": 23,
+        "PROP_MAE": 0.38,
+        "OKRSEK_POC_HLASU": 526,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5205/579025_23.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5205/579025_23.json"
+    },
+    {
+        "OKRES": 7204,
+        "OBEC": 585441,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.44,
+        "OKRSEK_POC_HLASU": 406,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/7204/585441_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/7204/585441_1.json"
+    },
+    {
+        "OKRES": 7105,
+        "OBEC": 540773,
+        "OKRSEK": 2,
+        "PROP_MAE": 0.46,
+        "OKRSEK_POC_HLASU": 792,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/7105/540773_2.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/7105/540773_2.json"
+    },
+    {
+        "OKRES": 5201,
+        "OBEC": 569810,
+        "OKRSEK": 14,
+        "PROP_MAE": 0.47,
+        "OKRSEK_POC_HLASU": 560,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5201/569810_14.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5201/569810_14.json"
+    },
+    {
+        "OKRES": 6204,
+        "OBEC": 584975,
+        "OKRSEK": 3,
+        "PROP_MAE": 0.49,
+        "OKRSEK_POC_HLASU": 642,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6204/584975_3.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6204/584975_3.json"
+    },
+    {
+        "OKRES": 5201,
+        "OBEC": 570885,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.54,
+        "OKRSEK_POC_HLASU": 317,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5201/570885_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5201/570885_1.json"
+    },
+    {
+        "OKRES": 3101,
+        "OBEC": 544256,
+        "OKRSEK": 55,
+        "PROP_MAE": 0.57,
+        "OKRSEK_POC_HLASU": 479,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/3101/544256_55.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/3101/544256_55.json"
+    },
+    {
+        "OKRES": 3101,
+        "OBEC": 544256,
+        "OKRSEK": 84,
+        "PROP_MAE": 0.57,
+        "OKRSEK_POC_HLASU": 606,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/3101/544256_84.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/3101/544256_84.json"
+    },
+    {
+        "OKRES": 3206,
+        "OBEC": 559717,
+        "OKRSEK": 4,
+        "PROP_MAE": 0.57,
+        "OKRSEK_POC_HLASU": 731,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/3206/559717_4.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/3206/559717_4.json"
+    },
+    {
+        "OKRES": 6202,
+        "OBEC": 551287,
+        "OKRSEK": 14005,
+        "PROP_MAE": 0.58,
+        "OKRSEK_POC_HLASU": 757,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6202/551287_14005.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6202/551287_14005.json"
+    },
+    {
+        "OKRES": 3204,
+        "OBEC": 557676,
+        "OKRSEK": 2,
+        "PROP_MAE": 0.58,
+        "OKRSEK_POC_HLASU": 1022,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/3204/557676_2.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/3204/557676_2.json"
+    },
+    {
+        "OKRES": 5204,
+        "OBEC": 576786,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.59,
+        "OKRSEK_POC_HLASU": 476,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5204/576786_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5204/576786_1.json"
+    },
+    {
+        "OKRES": 3203,
+        "OBEC": 546208,
+        "OKRSEK": 4005,
+        "PROP_MAE": 0.59,
+        "OKRSEK_POC_HLASU": 492,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/3203/546208_4005.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/3203/546208_4005.json"
+    },
+    {
+        "OKRES": 2101,
+        "OBEC": 532061,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.6,
+        "OKRSEK_POC_HLASU": 324,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/2101/532061_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/2101/532061_1.json"
+    },
+    {
+        "OKRES": 5302,
+        "OBEC": 557072,
+        "OKRSEK": 5009,
+        "PROP_MAE": 0.61,
+        "OKRSEK_POC_HLASU": 394,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5302/557072_5009.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5302/557072_5009.json"
+    },
+    {
+        "OKRES": 2103,
+        "OBEC": 532053,
+        "OKRSEK": 29,
+        "PROP_MAE": 0.61,
+        "OKRSEK_POC_HLASU": 608,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/2103/532053_29.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/2103/532053_29.json"
+    },
+    {
+        "OKRES": 5205,
+        "OBEC": 579025,
+        "OKRSEK": 12,
+        "PROP_MAE": 0.62,
+        "OKRSEK_POC_HLASU": 557,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5205/579025_12.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5205/579025_12.json"
+    },
+    {
+        "OKRES": 6101,
+        "OBEC": 568759,
+        "OKRSEK": 4,
+        "PROP_MAE": 0.62,
+        "OKRSEK_POC_HLASU": 780,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6101/568759_4.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6101/568759_4.json"
+    },
+    {
+        "OKRES": 5302,
+        "OBEC": 575640,
+        "OKRSEK": 3,
+        "PROP_MAE": 0.63,
+        "OKRSEK_POC_HLASU": 606,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5302/575640_3.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5302/575640_3.json"
+    },
+    {
+        "OKRES": 2101,
+        "OBEC": 530883,
+        "OKRSEK": 10,
+        "PROP_MAE": 0.63,
+        "OKRSEK_POC_HLASU": 616,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/2101/530883_10.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/2101/530883_10.json"
+    },
+    {
+        "OKRES": 3203,
+        "OBEC": 545988,
+        "OKRSEK": 2018,
+        "PROP_MAE": 0.66,
+        "OKRSEK_POC_HLASU": 395,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/3203/545988_2018.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/3203/545988_2018.json"
+    },
+    {
+        "OKRES": 6202,
+        "OBEC": 551198,
+        "OKRSEK": 3010,
+        "PROP_MAE": 0.67,
+        "OKRSEK_POC_HLASU": 312,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6202/551198_3010.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6202/551198_3010.json"
+    },
+    {
+        "OKRES": 2106,
+        "OBEC": 534749,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.68,
+        "OKRSEK_POC_HLASU": 338,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/2106/534749_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/2106/534749_1.json"
+    },
+    {
+        "OKRES": 3103,
+        "OBEC": 545881,
+        "OKRSEK": 17,
+        "PROP_MAE": 0.68,
+        "OKRSEK_POC_HLASU": 597,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/3103/545881_17.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/3103/545881_17.json"
+    },
+    {
+        "OKRES": 7103,
+        "OBEC": 544710,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.69,
+        "OKRSEK_POC_HLASU": 82,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/7103/544710_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/7103/544710_1.json"
+    },
+    {
+        "OKRES": 3205,
+        "OBEC": 559211,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.69,
+        "OKRSEK_POC_HLASU": 653,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/3205/559211_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/3205/559211_1.json"
+    },
+    {
+        "OKRES": 6202,
+        "OBEC": 551147,
+        "OKRSEK": 11003,
+        "PROP_MAE": 0.69,
+        "OKRSEK_POC_HLASU": 795,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6202/551147_11003.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6202/551147_11003.json"
+    },
+    {
+        "OKRES": 5302,
+        "OBEC": 555126,
+        "OKRSEK": 2012,
+        "PROP_MAE": 0.71,
+        "OKRSEK_POC_HLASU": 469,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5302/555126_2012.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5302/555126_2012.json"
+    },
+    {
+        "OKRES": 5301,
+        "OBEC": 571164,
+        "OKRSEK": 13,
+        "PROP_MAE": 0.71,
+        "OKRSEK_POC_HLASU": 474,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5301/571164_13.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5301/571164_13.json"
+    },
+    {
+        "OKRES": 5205,
+        "OBEC": 579114,
+        "OKRSEK": 2,
+        "PROP_MAE": 0.74,
+        "OKRSEK_POC_HLASU": 199,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5205/579114_2.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5205/579114_2.json"
+    },
+    {
+        "OKRES": 6201,
+        "OBEC": 581682,
+        "OKRSEK": 2,
+        "PROP_MAE": 0.74,
+        "OKRSEK_POC_HLASU": 685,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6201/581682_2.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6201/581682_2.json"
+    },
+    {
+        "OKRES": 3101,
+        "OBEC": 545341,
+        "OKRSEK": 2,
+        "PROP_MAE": 0.74,
+        "OKRSEK_POC_HLASU": 840,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/3101/545341_2.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/3101/545341_2.json"
+    },
+    {
+        "OKRES": 3103,
+        "OBEC": 545881,
+        "OKRSEK": 7,
+        "PROP_MAE": 0.75,
+        "OKRSEK_POC_HLASU": 324,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/3103/545881_7.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/3103/545881_7.json"
+    },
+    {
+        "OKRES": 2106,
+        "OBEC": 535320,
+        "OKRSEK": 2,
+        "PROP_MAE": 0.75,
+        "OKRSEK_POC_HLASU": 371,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/2106/535320_2.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/2106/535320_2.json"
+    },
+    {
+        "OKRES": 2109,
+        "OBEC": 538574,
+        "OKRSEK": 4,
+        "PROP_MAE": 0.75,
+        "OKRSEK_POC_HLASU": 613,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/2109/538574_4.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/2109/538574_4.json"
+    },
+    {
+        "OKRES": 8104,
+        "OBEC": 599999,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.76,
+        "OKRSEK_POC_HLASU": 373,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/8104/599999_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/8104/599999_1.json"
+    },
+    {
+        "OKRES": 6202,
+        "OBEC": 551198,
+        "OKRSEK": 3011,
+        "PROP_MAE": 0.76,
+        "OKRSEK_POC_HLASU": 470,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6202/551198_3011.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6202/551198_3011.json"
+    },
+    {
+        "OKRES": 6104,
+        "OBEC": 590266,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.77,
+        "OKRSEK_POC_HLASU": 561,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6104/590266_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6104/590266_1.json"
+    },
+    {
+        "OKRES": 7102,
+        "OBEC": 505587,
+        "OKRSEK": 2,
+        "PROP_MAE": 0.78,
+        "OKRSEK_POC_HLASU": 353,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/7102/505587_2.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/7102/505587_2.json"
+    },
+    {
+        "OKRES": 6102,
+        "OBEC": 586846,
+        "OKRSEK": 34,
+        "PROP_MAE": 0.78,
+        "OKRSEK_POC_HLASU": 400,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6102/586846_34.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6102/586846_34.json"
+    },
+    {
+        "OKRES": 5201,
+        "OBEC": 569810,
+        "OKRSEK": 27,
+        "PROP_MAE": 0.78,
+        "OKRSEK_POC_HLASU": 672,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5201/569810_27.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5201/569810_27.json"
+    },
+    {
+        "OKRES": 2106,
+        "OBEC": 535052,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.78,
+        "OKRSEK_POC_HLASU": 787,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/2106/535052_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/2106/535052_1.json"
+    },
+    {
+        "OKRES": 5301,
+        "OBEC": 571776,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.79,
+        "OKRSEK_POC_HLASU": 406,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5301/571776_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5301/571776_1.json"
+    },
+    {
+        "OKRES": 3205,
+        "OBEC": 558915,
+        "OKRSEK": 2,
+        "PROP_MAE": 0.8,
+        "OKRSEK_POC_HLASU": 218,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/3205/558915_2.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/3205/558915_2.json"
+    },
+    {
+        "OKRES": 4102,
+        "OBEC": 554961,
+        "OKRSEK": 26,
+        "PROP_MAE": 0.81,
+        "OKRSEK_POC_HLASU": 540,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/4102/554961_26.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/4102/554961_26.json"
+    },
+    {
+        "OKRES": 6202,
+        "OBEC": 551112,
+        "OKRSEK": 17004,
+        "PROP_MAE": 0.81,
+        "OKRSEK_POC_HLASU": 573,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6202/551112_17004.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6202/551112_17004.json"
+    },
+    {
+        "OKRES": 7203,
+        "OBEC": 541630,
+        "OKRSEK": 16,
+        "PROP_MAE": 0.81,
+        "OKRSEK_POC_HLASU": 649,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/7203/541630_16.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/7203/541630_16.json"
+    },
+    {
+        "OKRES": 3203,
+        "OBEC": 558460,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.82,
+        "OKRSEK_POC_HLASU": 592,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/3203/558460_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/3203/558460_1.json"
+    },
+    {
+        "OKRES": 7203,
+        "OBEC": 541630,
+        "OKRSEK": 3,
+        "PROP_MAE": 0.82,
+        "OKRSEK_POC_HLASU": 609,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/7203/541630_3.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/7203/541630_3.json"
+    },
+    {
+        "OKRES": 5203,
+        "OBEC": 573990,
+        "OKRSEK": 2,
+        "PROP_MAE": 0.82,
+        "OKRSEK_POC_HLASU": 627,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5203/573990_2.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5203/573990_2.json"
+    },
+    {
+        "OKRES": 7102,
+        "OBEC": 500496,
+        "OKRSEK": 16,
+        "PROP_MAE": 0.82,
+        "OKRSEK_POC_HLASU": 633,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/7102/500496_16.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/7102/500496_16.json"
+    },
+    {
+        "OKRES": 7203,
+        "OBEC": 500062,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.82,
+        "OKRSEK_POC_HLASU": 1164,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/7203/500062_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/7203/500062_1.json"
+    },
+    {
+        "OKRES": 7102,
+        "OBEC": 505188,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.83,
+        "OKRSEK_POC_HLASU": 721,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/7102/505188_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/7102/505188_1.json"
+    },
+    {
+        "OKRES": 8106,
+        "OBEC": 554723,
+        "OKRSEK": 13001,
+        "PROP_MAE": 0.83,
+        "OKRSEK_POC_HLASU": 891,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/8106/554723_13001.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/8106/554723_13001.json"
+    },
+    {
+        "OKRES": 3101,
+        "OBEC": 544256,
+        "OKRSEK": 11,
+        "PROP_MAE": 0.84,
+        "OKRSEK_POC_HLASU": 508,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/3101/544256_11.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/3101/544256_11.json"
+    },
+    {
+        "OKRES": 6102,
+        "OBEC": 588172,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.84,
+        "OKRSEK_POC_HLASU": 523,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6102/588172_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6102/588172_1.json"
+    },
+    {
+        "OKRES": 4101,
+        "OBEC": 554529,
+        "OKRSEK": 2,
+        "PROP_MAE": 0.84,
+        "OKRSEK_POC_HLASU": 617,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/4101/554529_2.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/4101/554529_2.json"
+    },
+    {
+        "OKRES": 7102,
+        "OBEC": 500496,
+        "OKRSEK": 66,
+        "PROP_MAE": 0.84,
+        "OKRSEK_POC_HLASU": 714,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/7102/500496_66.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/7102/500496_66.json"
+    },
+    {
+        "OKRES": 5302,
+        "OBEC": 557072,
+        "OKRSEK": 5013,
+        "PROP_MAE": 0.85,
+        "OKRSEK_POC_HLASU": 305,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5302/557072_5013.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5302/557072_5013.json"
+    },
+    {
+        "OKRES": 4205,
+        "OBEC": 567027,
+        "OKRSEK": 2,
+        "PROP_MAE": 0.85,
+        "OKRSEK_POC_HLASU": 353,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/4205/567027_2.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/4205/567027_2.json"
+    },
+    {
+        "OKRES": 2107,
+        "OBEC": 535419,
+        "OKRSEK": 35,
+        "PROP_MAE": 0.85,
+        "OKRSEK_POC_HLASU": 359,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/2107/535419_35.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/2107/535419_35.json"
+    },
+    {
+        "OKRES": 2112,
+        "OBEC": 541656,
+        "OKRSEK": 9,
+        "PROP_MAE": 0.85,
+        "OKRSEK_POC_HLASU": 507,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/2112/541656_9.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/2112/541656_9.json"
+    },
+    {
+        "OKRES": 6202,
+        "OBEC": 551091,
+        "OKRSEK": 22006,
+        "PROP_MAE": 0.85,
+        "OKRSEK_POC_HLASU": 509,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6202/551091_22006.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6202/551091_22006.json"
+    },
+    {
+        "OKRES": 5302,
+        "OBEC": 574929,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.85,
+        "OKRSEK_POC_HLASU": 510,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5302/574929_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5302/574929_1.json"
+    },
+    {
+        "OKRES": 2106,
+        "OBEC": 534676,
+        "OKRSEK": 13,
+        "PROP_MAE": 0.85,
+        "OKRSEK_POC_HLASU": 526,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/2106/534676_13.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/2106/534676_13.json"
+    },
+    {
+        "OKRES": 2107,
+        "OBEC": 535419,
+        "OKRSEK": 42,
+        "PROP_MAE": 0.86,
+        "OKRSEK_POC_HLASU": 96,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/2107/535419_42.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/2107/535419_42.json"
+    },
+    {
+        "OKRES": 7204,
+        "OBEC": 585955,
+        "OKRSEK": 2,
+        "PROP_MAE": 0.86,
+        "OKRSEK_POC_HLASU": 207,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/7204/585955_2.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/7204/585955_2.json"
+    },
+    {
+        "OKRES": 1100,
+        "OBEC": 500208,
+        "OKRSEK": 8100,
+        "PROP_MAE": 0.86,
+        "OKRSEK_POC_HLASU": 335,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/1100/500208_8100.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/1100/500208_8100.json"
+    },
+    {
+        "OKRES": 2111,
+        "OBEC": 541516,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.86,
+        "OKRSEK_POC_HLASU": 354,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/2111/541516_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/2111/541516_1.json"
+    },
+    {
+        "OKRES": 8102,
+        "OBEC": 598003,
+        "OKRSEK": 52,
+        "PROP_MAE": 0.86,
+        "OKRSEK_POC_HLASU": 381,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/8102/598003_52.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/8102/598003_52.json"
+    },
+    {
+        "OKRES": 3107,
+        "OBEC": 552046,
+        "OKRSEK": 23,
+        "PROP_MAE": 0.86,
+        "OKRSEK_POC_HLASU": 500,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/3107/552046_23.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/3107/552046_23.json"
+    },
+    {
+        "OKRES": 2107,
+        "OBEC": 535451,
+        "OKRSEK": 2,
+        "PROP_MAE": 0.86,
+        "OKRSEK_POC_HLASU": 576,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/2107/535451_2.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/2107/535451_2.json"
+    },
+    {
+        "OKRES": 2111,
+        "OBEC": 539911,
+        "OKRSEK": 14,
+        "PROP_MAE": 0.86,
+        "OKRSEK_POC_HLASU": 838,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/2111/539911_14.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/2111/539911_14.json"
+    },
+    {
+        "OKRES": 6104,
+        "OBEC": 590789,
+        "OKRSEK": 2,
+        "PROP_MAE": 0.87,
+        "OKRSEK_POC_HLASU": 377,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6104/590789_2.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6104/590789_2.json"
+    },
+    {
+        "OKRES": 4203,
+        "OBEC": 564567,
+        "OKRSEK": 14,
+        "PROP_MAE": 0.87,
+        "OKRSEK_POC_HLASU": 414,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/4203/564567_14.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/4203/564567_14.json"
+    },
+    {
+        "OKRES": 2108,
+        "OBEC": 537811,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.87,
+        "OKRSEK_POC_HLASU": 602,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/2108/537811_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/2108/537811_1.json"
+    },
+    {
+        "OKRES": 6203,
+        "OBEC": 583251,
+        "OKRSEK": 5,
+        "PROP_MAE": 0.87,
+        "OKRSEK_POC_HLASU": 602,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6203/583251_5.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6203/583251_5.json"
+    },
+    {
+        "OKRES": 6203,
+        "OBEC": 583766,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.87,
+        "OKRSEK_POC_HLASU": 763,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6203/583766_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6203/583766_1.json"
+    },
+    {
+        "OKRES": 3103,
+        "OBEC": 546500,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.88,
+        "OKRSEK_POC_HLASU": 445,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/3103/546500_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/3103/546500_1.json"
+    },
+    {
+        "OKRES": 5203,
+        "OBEC": 573868,
+        "OKRSEK": 16,
+        "PROP_MAE": 0.88,
+        "OKRSEK_POC_HLASU": 465,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5203/573868_16.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5203/573868_16.json"
+    },
+    {
+        "OKRES": 7102,
+        "OBEC": 505650,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.88,
+        "OKRSEK_POC_HLASU": 1264,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/7102/505650_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/7102/505650_1.json"
+    },
+    {
+        "OKRES": 8104,
+        "OBEC": 599344,
+        "OKRSEK": 8,
+        "PROP_MAE": 0.89,
+        "OKRSEK_POC_HLASU": 316,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/8104/599344_8.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/8104/599344_8.json"
+    },
+    {
+        "OKRES": 6104,
+        "OBEC": 590266,
+        "OKRSEK": 2,
+        "PROP_MAE": 0.89,
+        "OKRSEK_POC_HLASU": 508,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6104/590266_2.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6104/590266_2.json"
+    },
+    {
+        "OKRES": 8106,
+        "OBEC": 546224,
+        "OKRSEK": 15002,
+        "PROP_MAE": 0.89,
+        "OKRSEK_POC_HLASU": 536,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/8106/546224_15002.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/8106/546224_15002.json"
+    },
+    {
+        "OKRES": 6206,
+        "OBEC": 593320,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.9,
+        "OKRSEK_POC_HLASU": 369,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6206/593320_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6206/593320_1.json"
+    },
+    {
+        "OKRES": 6206,
+        "OBEC": 593397,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.9,
+        "OKRSEK_POC_HLASU": 411,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6206/593397_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6206/593397_1.json"
+    },
+    {
+        "OKRES": 1100,
+        "OBEC": 547107,
+        "OKRSEK": 12032,
+        "PROP_MAE": 0.9,
+        "OKRSEK_POC_HLASU": 480,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/1100/547107_12032.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/1100/547107_12032.json"
+    },
+    {
+        "OKRES": 7102,
+        "OBEC": 500496,
+        "OKRSEK": 48,
+        "PROP_MAE": 0.9,
+        "OKRSEK_POC_HLASU": 490,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/7102/500496_48.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/7102/500496_48.json"
+    },
+    {
+        "OKRES": 2105,
+        "OBEC": 534005,
+        "OKRSEK": 8,
+        "PROP_MAE": 0.9,
+        "OKRSEK_POC_HLASU": 541,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/2105/534005_8.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/2105/534005_8.json"
+    },
+    {
+        "OKRES": 5201,
+        "OBEC": 569810,
+        "OKRSEK": 69,
+        "PROP_MAE": 0.9,
+        "OKRSEK_POC_HLASU": 569,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5201/569810_69.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5201/569810_69.json"
+    },
+    {
+        "OKRES": 6201,
+        "OBEC": 581283,
+        "OKRSEK": 16,
+        "PROP_MAE": 0.9,
+        "OKRSEK_POC_HLASU": 569,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6201/581283_16.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6201/581283_16.json"
+    },
+    {
+        "OKRES": 5205,
+        "OBEC": 579203,
+        "OKRSEK": 5,
+        "PROP_MAE": 0.9,
+        "OKRSEK_POC_HLASU": 734,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5205/579203_5.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5205/579203_5.json"
+    },
+    {
+        "OKRES": 3203,
+        "OBEC": 545970,
+        "OKRSEK": 1008,
+        "PROP_MAE": 0.91,
+        "OKRSEK_POC_HLASU": 345,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/3203/545970_1008.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/3203/545970_1008.json"
+    },
+    {
+        "OKRES": 6202,
+        "OBEC": 551007,
+        "OKRSEK": 13018,
+        "PROP_MAE": 0.91,
+        "OKRSEK_POC_HLASU": 607,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6202/551007_13018.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6202/551007_13018.json"
+    },
+    {
+        "OKRES": 2102,
+        "OBEC": 533203,
+        "OKRSEK": 3,
+        "PROP_MAE": 0.91,
+        "OKRSEK_POC_HLASU": 620,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/2102/533203_3.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/2102/533203_3.json"
+    },
+    {
+        "OKRES": 3204,
+        "OBEC": 558249,
+        "OKRSEK": 6,
+        "PROP_MAE": 0.92,
+        "OKRSEK_POC_HLASU": 191,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/3204/558249_6.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/3204/558249_6.json"
+    },
+    {
+        "OKRES": 3203,
+        "OBEC": 545988,
+        "OKRSEK": 2004,
+        "PROP_MAE": 0.92,
+        "OKRSEK_POC_HLASU": 309,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/3203/545988_2004.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/3203/545988_2004.json"
+    },
+    {
+        "OKRES": 3203,
+        "OBEC": 546208,
+        "OKRSEK": 4016,
+        "PROP_MAE": 0.92,
+        "OKRSEK_POC_HLASU": 318,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/3203/546208_4016.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/3203/546208_4016.json"
+    },
+    {
+        "OKRES": 6206,
+        "OBEC": 592889,
+        "OKRSEK": 5,
+        "PROP_MAE": 0.92,
+        "OKRSEK_POC_HLASU": 537,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6206/592889_5.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6206/592889_5.json"
+    },
+    {
+        "OKRES": 2101,
+        "OBEC": 530883,
+        "OKRSEK": 3,
+        "PROP_MAE": 0.92,
+        "OKRSEK_POC_HLASU": 673,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/2101/530883_3.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/2101/530883_3.json"
+    },
+    {
+        "OKRES": 3204,
+        "OBEC": 558109,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.92,
+        "OKRSEK_POC_HLASU": 769,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/3204/558109_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/3204/558109_1.json"
+    },
+    {
+        "OKRES": 6205,
+        "OBEC": 586307,
+        "OKRSEK": 12,
+        "PROP_MAE": 0.93,
+        "OKRSEK_POC_HLASU": 436,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6205/586307_12.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6205/586307_12.json"
+    },
+    {
+        "OKRES": 2111,
+        "OBEC": 540757,
+        "OKRSEK": 2,
+        "PROP_MAE": 0.93,
+        "OKRSEK_POC_HLASU": 518,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/2111/540757_2.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/2111/540757_2.json"
+    },
+    {
+        "OKRES": 5205,
+        "OBEC": 579858,
+        "OKRSEK": 6,
+        "PROP_MAE": 0.93,
+        "OKRSEK_POC_HLASU": 548,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5205/579858_6.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5205/579858_6.json"
+    },
+    {
+        "OKRES": 6101,
+        "OBEC": 569780,
+        "OKRSEK": 2,
+        "PROP_MAE": 0.93,
+        "OKRSEK_POC_HLASU": 801,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6101/569780_2.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6101/569780_2.json"
+    },
+    {
+        "OKRES": 8106,
+        "OBEC": 554588,
+        "OKRSEK": 14002,
+        "PROP_MAE": 0.93,
+        "OKRSEK_POC_HLASU": 924,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/8106/554588_14002.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/8106/554588_14002.json"
+    },
+    {
+        "OKRES": 3101,
+        "OBEC": 544256,
+        "OKRSEK": 25,
+        "PROP_MAE": 0.94,
+        "OKRSEK_POC_HLASU": 335,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/3101/544256_25.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/3101/544256_25.json"
+    },
+    {
+        "OKRES": 5301,
+        "OBEC": 572241,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.94,
+        "OKRSEK_POC_HLASU": 494,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5301/572241_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5301/572241_1.json"
+    },
+    {
+        "OKRES": 5205,
+        "OBEC": 579734,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.94,
+        "OKRSEK_POC_HLASU": 583,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5205/579734_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5205/579734_1.json"
+    },
+    {
+        "OKRES": 3104,
+        "OBEC": 549576,
+        "OKRSEK": 4,
+        "PROP_MAE": 0.94,
+        "OKRSEK_POC_HLASU": 626,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/3104/549576_4.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/3104/549576_4.json"
+    },
+    {
+        "OKRES": 5201,
+        "OBEC": 569810,
+        "OKRSEK": 50,
+        "PROP_MAE": 0.94,
+        "OKRSEK_POC_HLASU": 678,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5201/569810_50.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5201/569810_50.json"
+    },
+    {
+        "OKRES": 7105,
+        "OBEC": 540501,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.94,
+        "OKRSEK_POC_HLASU": 791,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/7105/540501_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/7105/540501_1.json"
+    },
+    {
+        "OKRES": 8106,
+        "OBEC": 599549,
+        "OKRSEK": 3,
+        "PROP_MAE": 0.94,
+        "OKRSEK_POC_HLASU": 856,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/8106/599549_3.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/8106/599549_3.json"
+    },
+    {
+        "OKRES": 1100,
+        "OBEC": 547107,
+        "OKRSEK": 12047,
+        "PROP_MAE": 0.95,
+        "OKRSEK_POC_HLASU": 470,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/1100/547107_12047.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/1100/547107_12047.json"
+    },
+    {
+        "OKRES": 7204,
+        "OBEC": 585513,
+        "OKRSEK": 3,
+        "PROP_MAE": 0.95,
+        "OKRSEK_POC_HLASU": 667,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/7204/585513_3.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/7204/585513_3.json"
+    },
+    {
+        "OKRES": 5203,
+        "OBEC": 574121,
+        "OKRSEK": 9,
+        "PROP_MAE": 0.96,
+        "OKRSEK_POC_HLASU": 359,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5203/574121_9.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5203/574121_9.json"
+    },
+    {
+        "OKRES": 3101,
+        "OBEC": 544256,
+        "OKRSEK": 20,
+        "PROP_MAE": 0.96,
+        "OKRSEK_POC_HLASU": 373,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/3101/544256_20.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/3101/544256_20.json"
+    },
+    {
+        "OKRES": 4102,
+        "OBEC": 554961,
+        "OKRSEK": 20,
+        "PROP_MAE": 0.96,
+        "OKRSEK_POC_HLASU": 460,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/4102/554961_20.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/4102/554961_20.json"
+    },
+    {
+        "OKRES": 5204,
+        "OBEC": 576590,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.96,
+        "OKRSEK_POC_HLASU": 485,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5204/576590_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5204/576590_1.json"
+    },
+    {
+        "OKRES": 5201,
+        "OBEC": 569810,
+        "OKRSEK": 70,
+        "PROP_MAE": 0.96,
+        "OKRSEK_POC_HLASU": 643,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5201/569810_70.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5201/569810_70.json"
+    },
+    {
+        "OKRES": 3105,
+        "OBEC": 550663,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.96,
+        "OKRSEK_POC_HLASU": 903,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/3105/550663_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/3105/550663_1.json"
+    },
+    {
+        "OKRES": 4102,
+        "OBEC": 554961,
+        "OKRSEK": 7,
+        "PROP_MAE": 0.97,
+        "OKRSEK_POC_HLASU": 215,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/4102/554961_7.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/4102/554961_7.json"
+    },
+    {
+        "OKRES": 2103,
+        "OBEC": 532177,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.97,
+        "OKRSEK_POC_HLASU": 334,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/2103/532177_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/2103/532177_1.json"
+    },
+    {
+        "OKRES": 6201,
+        "OBEC": 581283,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.97,
+        "OKRSEK_POC_HLASU": 351,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6201/581283_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6201/581283_1.json"
+    },
+    {
+        "OKRES": 7202,
+        "OBEC": 592021,
+        "OKRSEK": 2,
+        "PROP_MAE": 0.97,
+        "OKRSEK_POC_HLASU": 629,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/7202/592021_2.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/7202/592021_2.json"
+    },
+    {
+        "OKRES": 6102,
+        "OBEC": 588113,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.97,
+        "OKRSEK_POC_HLASU": 848,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6102/588113_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6102/588113_1.json"
+    },
+    {
+        "OKRES": 5205,
+        "OBEC": 579548,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.97,
+        "OKRSEK_POC_HLASU": 1102,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5205/579548_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5205/579548_1.json"
+    },
+    {
+        "OKRES": 6103,
+        "OBEC": 548464,
+        "OKRSEK": 2,
+        "PROP_MAE": 0.98,
+        "OKRSEK_POC_HLASU": 83,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6103/548464_2.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6103/548464_2.json"
+    },
+    {
+        "OKRES": 6201,
+        "OBEC": 582611,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.98,
+        "OKRSEK_POC_HLASU": 144,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6201/582611_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6201/582611_1.json"
+    },
+    {
+        "OKRES": 5302,
+        "OBEC": 557072,
+        "OKRSEK": 5014,
+        "PROP_MAE": 0.98,
+        "OKRSEK_POC_HLASU": 302,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5302/557072_5014.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5302/557072_5014.json"
+    },
+    {
+        "OKRES": 2106,
+        "OBEC": 535036,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.98,
+        "OKRSEK_POC_HLASU": 337,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/2106/535036_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/2106/535036_1.json"
+    },
+    {
+        "OKRES": 3203,
+        "OBEC": 546208,
+        "OKRSEK": 4008,
+        "PROP_MAE": 0.98,
+        "OKRSEK_POC_HLASU": 430,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/3203/546208_4008.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/3203/546208_4008.json"
+    },
+    {
+        "OKRES": 5302,
+        "OBEC": 575739,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.98,
+        "OKRSEK_POC_HLASU": 432,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5302/575739_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5302/575739_1.json"
+    },
+    {
+        "OKRES": 5201,
+        "OBEC": 570109,
+        "OKRSEK": 4,
+        "PROP_MAE": 0.98,
+        "OKRSEK_POC_HLASU": 465,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/5201/570109_4.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/5201/570109_4.json"
+    },
+    {
+        "OKRES": 7204,
+        "OBEC": 585068,
+        "OKRSEK": 27,
+        "PROP_MAE": 0.98,
+        "OKRSEK_POC_HLASU": 485,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/7204/585068_27.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/7204/585068_27.json"
+    },
+    {
+        "OKRES": 6202,
+        "OBEC": 551082,
+        "OKRSEK": 1004,
+        "PROP_MAE": 0.98,
+        "OKRSEK_POC_HLASU": 603,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6202/551082_1004.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6202/551082_1004.json"
+    },
+    {
+        "OKRES": 3107,
+        "OBEC": 553069,
+        "OKRSEK": 4,
+        "PROP_MAE": 0.98,
+        "OKRSEK_POC_HLASU": 624,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/3107/553069_4.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/3107/553069_4.json"
+    },
+    {
+        "OKRES": 2106,
+        "OBEC": 571784,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.98,
+        "OKRSEK_POC_HLASU": 1223,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/2106/571784_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/2106/571784_1.json"
+    },
+    {
+        "OKRES": 6102,
+        "OBEC": 588121,
+        "OKRSEK": 1,
+        "PROP_MAE": 0.99,
+        "OKRSEK_POC_HLASU": 328,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/6102/588121_1.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/6102/588121_1.json"
+    },
+    {
+        "OKRES": 8104,
+        "OBEC": 599191,
+        "OKRSEK": 4,
+        "PROP_MAE": 0.99,
+        "OKRSEK_POC_HLASU": 714,
+        "url_ps2021": "https://www.volby.cz/appdata/ps2021/vysled/okrsek/8104/599191_4.json",
+        "url_ps2025": "https://www.volby.cz/appdata/ps2025/vysled/okrsek/8104/599191_4.json"
+    }
+]

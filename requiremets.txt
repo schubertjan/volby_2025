@@ -1,0 +1,9 @@
+pandas
+requests
+GitPython
+tabulate
+scikit-learn
+numpy
+black
+flake8
+isort
