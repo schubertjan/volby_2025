@@ -18,7 +18,7 @@ def load_okrsek_results(url, headers):
         data = response.json()
         if data["vysledky"]:
             df = pd.DataFrame(data["vysledky"])
-            df.columns = ["KSTRANA", "NAZ_STRANA", "POC_HLASU", "OKRSEK_PRC"]
+            df.columns = ["KSTRANA", "Názek strany", "POC_HLASU", "OKRSEK_PRC"]
             return df
         else:
             return pd.DataFrame()
@@ -85,47 +85,49 @@ while True:
 
     timestamp = datetime.now().strftime("%Y-%m-%d_%H:%M:%S")
     print(f"Processing data for {timestamp}")
-    for index, row in results_2021.iterrows():
-        okrsek_hash = str(row["OKRES"])+str(row["OBEC"])+str(row["OKRSEK"])
-        if okrsek_hash not in hash_cashed:
-            header = np.random.choice(headers, 1)[0]
-            okrsek_result = load_okrsek_results(row["url_ps2025"], header)
-            if okrsek_result.shape[0] > 0:
-                okrsek_result["PROP_MAE"] = row["PROP_MAE"]
-                okrsek_result["WEIGHT"] = mae_threshold - okrsek_result["PROP_MAE"]
-                okrsek_result["okrsek_hash"] = okrsek_hash
-                intermediate_results.append(okrsek_result)
-            time.sleep(1)
-    if intermediate_results:
-        inter_df = pd.concat(intermediate_results)
-        to_publish = inter_df.groupby(["NAZ_STRANA"]).apply(
-            lambda x: np.round(np.average(x["OKRSEK_PRC"], weights=x["WEIGHT"]), 2)
-        )
-        prc_threshold = 1.0
-        to_publish = to_publish.loc[to_publish > prc_threshold]
-        to_publish.sort_values(inplace=True, ascending=False)
-        to_publish.name = f"Procent hlasů (strany s více než {prc_threshold}%)"
-
-        # Save to file
-        with open(
-            project_dir / "vysledky" / f"vysledky_report_{timestamp}.md",
-            "w",
-            encoding="utf-8",
-        ) as f:
-            f.write(
-                f"# 🗳️ Volební výsledky podle strany:\n\nČas predikce:{timestamp}\n\n"
+    while len(hash_cashed) <= results_2021.shape[0]:
+        print(f"Processing {len(hash_cashed)} / {results_2021.shape[0]} okresku")
+        for index, row in results_2021.iterrows():
+            okrsek_hash = str(row["OKRES"])+str(row["OBEC"])+str(row["OKRSEK"])
+            if okrsek_hash not in hash_cashed:
+                header = np.random.choice(headers, 1)[0]
+                okrsek_result = load_okrsek_results(row["url_ps2025"], header)
+                if okrsek_result.shape[0] > 0:
+                    okrsek_result["PROP_MAE"] = row["PROP_MAE"]
+                    okrsek_result["WEIGHT"] = mae_threshold - okrsek_result["PROP_MAE"]
+                    okrsek_result["okrsek_hash"] = okrsek_hash
+                    intermediate_results.append(okrsek_result)
+                time.sleep(5)
+        if intermediate_results:
+            inter_df = pd.concat(intermediate_results)
+            to_publish = inter_df.groupby(["Názek strany"]).apply(
+                lambda x: np.round(np.average(x["OKRSEK_PRC"], weights=x["WEIGHT"]), 2)
             )
-            f.write(to_publish.to_markdown())
+            prc_threshold = 1.0
+            to_publish = to_publish.loc[to_publish > prc_threshold]
+            to_publish.sort_values(inplace=True, ascending=False)
+            to_publish.name = f"Procent hlasů (strany s více než {prc_threshold}%)"
 
-        with open(
-            project_dir / "docs" / f"prubezne_vysledky.md", "w", encoding="utf-8"
-        ) as f:
-            f.write(
-                f"# 🗳️ Volební výsledky podle strany:\n\nČas predikce: {timestamp}\n\n"
-            )
-            f.write(to_publish.to_markdown())
-        with open(intermediate_results_path, "w") as f:
-            json.dump([intermediate_result.to_dict(orient="records") for intermediate_result in intermediate_results], f)
-        git_push_results()
+            # Save to file
+            with open(
+                project_dir / "vysledky" / f"vysledky_report_{timestamp}.md",
+                "w",
+                encoding="utf-8",
+            ) as f:
+                f.write(
+                    f"# 🗳️ Predikce volebních výsledků:\n\nČas predikce:{timestamp}\n\n"
+                )
+                f.write(to_publish.to_markdown())
+
+            with open(
+                project_dir / "docs" / f"prubezne_vysledky.md", "w", encoding="utf-8"
+            ) as f:
+                f.write(
+                    f"# 🗳️ Predikce volebních výsledků:\n\nČas predikce: {timestamp}\n\n"
+                )
+                f.write(to_publish.to_markdown())
+            with open(intermediate_results_path, "w") as f:
+                json.dump([intermediate_result.to_dict(orient="records") for intermediate_result in intermediate_results], f)
+            git_push_results()
 
 # visible at https://schubertjan.github.io/volby_2025/prubezne_vysledky
