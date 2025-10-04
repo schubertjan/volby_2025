@@ -1,6 +1,6 @@
 # 🗳️ Volební výsledky podle strany:
 
-Čas predikce: 2025-10-04_16:45:51
+Čas predikce: 2025-10-04_16:47:03
 
 | NAZ_STRANA                     |   Procent hlasů (strany s více než 1.0%) |
 |:-------------------------------|-----------------------------------------:|
