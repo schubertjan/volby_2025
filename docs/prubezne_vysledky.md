@@ -1,29 +1,29 @@
 # 🗳️ Volební výsledky podle strany:
 
-Čas predikce: 2025-10-04_15:38:01
+Čas predikce: 2025-10-04_15:40:52
 
 | NAZ_STRANA                     |   Procent hlasů |
 |:-------------------------------|----------------:|
-| "Rebelové web: re3elove.cz"    |       0.0400604 |
-| ANO 2011                       |      33.7203    |
-| Hnutí Generace                 |       0.29881   |
-| Hnutí Kruh                     |       0         |
-| Hnutí občanů a podnikatelů     |       0.0261982 |
-| Jasný Signál Nezávislých       |       0.0331148 |
-| Koruna Česká (monarch.strana)  |       0.149923  |
-| Levice                         |       0.0543786 |
-| Moravské zemské hnutí          |       0.102936  |
-| Motoristé sobě                 |       7.76079   |
-| PŘÍSAHA občanské hnutí         |       1.05012   |
-| SMS – Stát Má Sloužit          |       0.0507656 |
-| SPOLU (ODS, KDU-ČSL, TOP 09)   |      23.434     |
-| STAROSTOVÉ A NEZÁVISLÍ         |      11.6037    |
-| Stačilo!                       |       4.25973   |
-| Svoboda a př. demokracie (SPD) |       7.79734   |
-| Volt Česko                     |       0.1043    |
-| Voluntia                       |       0.0565181 |
-| VÝZVA 2025                     |       0.0784793 |
-| Česká pirátská strana          |       8.81059   |
-| Česká republika na 1. místě!   |       0.212417  |
-| Česká suverenita soc. dem.     |       0.11474   |
-| ŠVÝCARSKÁ DEMOKRACIE           |       0.421274  |
+| "Rebelové web: re3elove.cz"    |       0.0483942 |
+| ANO 2011                       |      34.0197    |
+| Hnutí Generace                 |       0.389589  |
+| Hnutí Kruh                     |       0.0882743 |
+| Hnutí občanů a podnikatelů     |       0.0882506 |
+| Jasný Signál Nezávislých       |       0.0558055 |
+| Koruna Česká (monarch.strana)  |       0.146538  |
+| Levice                         |       0.105728  |
+| Moravské zemské hnutí          |       0.0480171 |
+| Motoristé sobě                 |       6.76824   |
+| PŘÍSAHA občanské hnutí         |       0.936806  |
+| SMS – Stát Má Sloužit          |       0.0761229 |
+| SPOLU (ODS, KDU-ČSL, TOP 09)   |      23.6143    |
+| STAROSTOVÉ A NEZÁVISLÍ         |      10.8723    |
+| Stačilo!                       |       4.96299   |
+| Svoboda a př. demokracie (SPD) |       7.86421   |
+| Volt Česko                     |       0.0391782 |
+| Voluntia                       |       0.159382  |
+| VÝZVA 2025                     |       0.0228723 |
+| Česká pirátská strana          |       9.09285   |
+| Česká republika na 1. místě!   |       0.224052  |
+| Česká suverenita soc. dem.     |       0.220142  |
+| ŠVÝCARSKÁ DEMOKRACIE           |       0.34176   |
